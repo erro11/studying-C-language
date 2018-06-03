@@ -1,0 +1,7 @@
+#ifndef _TEXT
+#define _TEXT
+first
+#else
+repeat
+#endif
+every
