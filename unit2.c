@@ -12,3 +12,10 @@
   puts("a");
   return 0;
 }
+
+
+result 
+
+Message from begin                         
+Message from the end                               
+a  
