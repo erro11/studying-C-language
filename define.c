@@ -46,3 +46,23 @@ if we whant preprocessing , use
 then 
 
 #gcc nameOFfile.i -o nameOFfile.exe
+
+result 
+GoodAfternooN  
+sizeof(PROVERB)=14                         
+  sizeof()=14
+  GoodNight                 
+  CHAR_BIT=8                               
+  SCHAR_BIT=127           SCHAR-max=-128              
+  UCHAR_BIT=255                     
+  INT_MIN=-2147483648     INT_MAX=4        
+  LONG_BIT=-2147483648    LONG_MAX=2147483647    
+  FLT_EPSILON=1.192093e-007             
+  DBL_EPSILON=2.220446e-016             
+  FLT_MAX=3.402823e+038           FLT_MIN=1.175494e-038       
+  DBL_MAX=1.797693e+308                              
+  FLT_MANT_DIG=24                                    
+  DBL_MANT_DIG=53                                                            
+  
+  
+  
