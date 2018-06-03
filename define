@@ -33,3 +33,16 @@ int main() {
 
   return 0;
 }
+
+
+then start #cmd 
+or
+#terminal gnu/linux
+#gcc nameOFfile.c -o nameOFfile.exe
+
+if we whant preprocessing , use 
+#gcc -E nameOFfile.c -o nameOFfile.i
+
+then 
+
+#gcc nameOFfile.i -o nameOFfile.exe
